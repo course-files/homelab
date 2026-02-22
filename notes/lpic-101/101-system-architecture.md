@@ -457,4 +457,4 @@ Guided Exercises
 
 ## References
 
-Linux Professional Institute. (2025). *LPIC-1: 101* (5.0). Linux Professional Institute. [https://learning.lpi.org/en/learning-materials/101-500/](https://learning.lpi.org/en/learning-materials/101-500/)
+Linux Professional Institute. (2025). Topic 101: System Architecture. In *LPIC-1: 101* (5.0, pp. 1–50). Linux Professional Institute. [https://learning.lpi.org/en/learning-materials/101-500/](https://learning.lpi.org/en/learning-materials/101-500/)
