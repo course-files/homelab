@@ -2,6 +2,14 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="400" align="center"/>
 
+Learning outcomes:
+
+- 101.1: Candidates should be able to determine and configure fundamental system hardware.
+- 101.2: Candidates should be able to guide the system through the booting process.
+- 101.3: Candidates should be able to manage the `SysVinit` runlevel or `systemd` boot target of the system. This objective includes changing to single user mode, shutdown or rebooting the system. Candidates should be able to alert users before switching runlevels / boot targets and properly terminate processes. This objective also includes setting the default `SysVinit` runlevel or `systemd` boot target. It also includes awareness of `Upstart` as an alternative to `SysVinit` or `systemd`.
+
+General video explanation:
+
 [![Watch the video](https://img.youtube.com/vi/LKCVKw9CzFo/0.jpg)](https://youtu.be/LKCVKw9CzFo)
 
 [https://youtu.be/LKCVKw9CzFo](https://youtu.be/LKCVKw9CzFo)
@@ -446,3 +454,7 @@ Guided Exercises
 2. Although the file `/sbin/init` can be found in `systemd` based systems, it is only a symbolic link to another executable file. In such systems, what is the file pointed by `/sbin/init`?
 3. How can the default system target be verified in a `systemd` based system?
 4. How can a system reboot scheduled with the `shutdown` command be canceled?
+
+## References
+
+Linux Professional Institute. (2025). *LPIC-1: 101* (5.0). Linux Professional Institute. [https://learning.lpi.org/en/learning-materials/101-500/](https://learning.lpi.org/en/learning-materials/101-500/)
