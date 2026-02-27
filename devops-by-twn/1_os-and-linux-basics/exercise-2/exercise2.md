@@ -24,4 +24,28 @@ You can see more examples here: [https://www.tutorialspoint.com/awk/awk_basic_ex
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="400" alt="Bash Logo"/>
 
-- Step 1: 
+- Step 1: Install Vim
+
+    ![Install Vim](assets/images/1.png)
+
+- Step 2: Create the Bash Script using Vim
+
+    ![Create Bash Script](assets/images/2.png)
+
+    Link to Shell (Bash) Script: [exercise2_shell_script.sh](exercise2_shell_script.sh)
+
+- Step 3: Set the Required Permissions
+
+    `chmod u+rwx exercise2_shell_script.sh`
+
+    ![Changed Permissions](assets/images/3.png)
+
+- Step 4: Execute the Bash Script
+
+    Run ` ./exercise2_shell_script.sh`
+
+    ![Java Version](assets/images/4.png)
+
+    Successfully installed Java version 21.0.10
+
+    ![Java Version](assets/images/5.png)

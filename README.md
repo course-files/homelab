@@ -63,6 +63,7 @@
 ### 2 - OS & Linux Basics
 
 - [Exercise 1: Linux Mint Virtual Machine](devops-by-twn/1_os-and-linux-basics/exercise-1/exercise1.md)
+- [Exercise 2: Bash Script - Install Java](devops-by-twn/1_os-and-linux-basics/exercise-2/exercise2.md)
 
 ## Cleanup Instructions (to be done after submitting the lab)
 
