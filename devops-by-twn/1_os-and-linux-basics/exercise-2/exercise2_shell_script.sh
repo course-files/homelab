@@ -52,4 +52,22 @@ if [[ "$JAVA_MAJOR" -lt 11 ]]; then
     exit 1
 fi
 
-echo "Java version installed: $JAVA_VERSION"
+
+# Detect JAVA_HOME dynamically — avoids hard-coding architecture (amd64, arm64, etc.)
+# dirname twice: strip /bin/java → strip /bin → arrive at JDK root
+JAVA_HOME=$(dirname "$(dirname "$(readlink -f "$(command -v java)")")")
+
+# Write environment variables to /etc/profile.d/ for system-wide persistence.
+# This file is sourced automatically for all users on login shell initialisation.
+echo ""
+echo "Configuring JAVA_HOME and PATH in /etc/profile.d/java.sh..."
+sudo tee /etc/profile.d/java.sh > /dev/null <<EOF
+export JAVA_HOME=${JAVA_HOME}
+export PATH=\$JAVA_HOME/bin:\$PATH
+EOF
+
+echo "Java installation complete. Version: $JAVA_VERSION"
+echo "JAVA_HOME set to: $JAVA_HOME"
+echo ""
+echo "Note: To apply environment variables in the current session, run:"
+echo "  source /etc/profile.d/java.sh"

@@ -49,3 +49,7 @@ You can see more examples here: [https://www.tutorialspoint.com/awk/awk_basic_ex
     Successfully installed Java version 21.0.10
 
     ![Java Version](assets/images/5.png)
+
+    Updated to set JAVA_HOME using `export JAVA_HOME=${JAVA_HOME}`
+
+    ![JAVA_HOME set](assets/images/6.png)
