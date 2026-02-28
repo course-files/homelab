@@ -42,7 +42,7 @@ You can see more examples here: [https://www.tutorialspoint.com/awk/awk_basic_ex
 
 - Step 4: Execute the Bash Script
 
-    Run ` ./exercise2_shell_script.sh`
+    Run `./exercise2_shell_script.sh`
 
     ![Java Version](assets/images/4.png)
 
@@ -50,6 +50,6 @@ You can see more examples here: [https://www.tutorialspoint.com/awk/awk_basic_ex
 
     ![Java Version](assets/images/5.png)
 
-    Updated to set JAVA_HOME using `export JAVA_HOME=${JAVA_HOME}`
+    Updated the bash script to set JAVA_HOME using `export JAVA_HOME=${JAVA_HOME}`
 
     ![JAVA_HOME set](assets/images/6.png)
