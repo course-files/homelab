@@ -10,4 +10,26 @@ Write a bash script using Vim editor that checks all the processes running for t
 
 - Step 1: Create the Bash Script using Vim
 
-    ![Install Vim](assets/images/1.png)
+    ![Create using Vim](assets/images/1.png)
+
+    Add Content to Script using Vim:
+    ![Add Content to Script using Vim](assets/images/2.png)
+
+    Link to bash script: [exercise3_ps_aux.sh](exercise3_ps_aux.sh)
+
+- Step 2: Set the required permissions to execute the script
+
+    ![Set the Required Permissions](assets/images/3.png)
+
+- Step 3: Execute the script
+
+    Executed using:
+
+    ```shell
+    sudo su
+    ./exercise3_ps_aux.sh
+    ```
+
+    ![Execute the script - input](assets/images/4.png)
+
+    ![Execute the script - output](assets/images/5.png)
