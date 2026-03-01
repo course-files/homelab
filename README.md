@@ -64,6 +64,8 @@
 
 - [Exercise 1: Linux Mint Virtual Machine](devops-by-twn/1_os-and-linux-basics/exercise-1/exercise1.md)
 - [Exercise 2: Bash Script - Install Java](devops-by-twn/1_os-and-linux-basics/exercise-2/exercise2.md)
+- [Exercise 3: Bash Script - User Processes](devops-by-twn/1_os-and-linux-basics/exercise-3/exercise3.md)
+- [Exercise 4: Bash Script - User Processes Sorted](devops-by-twn/1_os-and-linux-basics/exercise-4/exercise4.md)
 
 ## Cleanup Instructions (to be done after submitting the lab)
 
