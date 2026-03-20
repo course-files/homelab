@@ -14,7 +14,7 @@ Extend the previous script to ask additionally for user input about how many pro
 
     ![Execute the Script](assets/images/2.png)
 
-    Link to bash script: [exercise4_ps_aux_sorted.sh](exercise4_ps_aux_sorted.sh)
+    Link to bash script: [exercise5_ps_aux_sorted_number.sh](exercise5_ps_aux_sorted_number.sh)
 
 - Step 2: Execute the script
 
@@ -22,7 +22,7 @@ Extend the previous script to ask additionally for user input about how many pro
 
     ```shell
     sudo su
-    ./exercise4_ps_aux_sorted.sh
+    ./exercise5_ps_aux_sorted_number.sh
     ```
 
     ![Execute the script - input](assets/images/3.png)
