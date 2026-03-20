@@ -16,6 +16,12 @@ ssh -i /C/Users/aomondi/.ssh/id_ed25519_auth aomondi@192.168.100.3
 ssh -i /C/Users/aomondi/.ssh/id_ed25519_auth aomondi@192.168.100.4
 ```
 
+### Mint 22.3 (VM)
+
+```shell
+ssh -i /C/Users/aomondi/.ssh/id_ed25519_auth aomondi@192.168.100.15
+```
+
 ## General Usage Commands
 
 ### Get the Hostname
