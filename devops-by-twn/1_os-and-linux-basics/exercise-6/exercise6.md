@@ -1,4 +1,4 @@
-# Exercise 6: Bash Script - Specific Number of User Processes Sorted
+# Exercise 6: Bash Script - Install NodeJS, NPM, and Run NodeJS Application
 
 ## Question
 
