@@ -281,5 +281,5 @@ pip freeze > ./requirements/dev.lock.txt
 3. Navigate to the project's root folder using the MSYS2 terminal.
 
 ```shell
-tree -I ".venv|.idea|__pycache__|roughwork|lab_submission_ANSWERS"
+tree -I ".venv|.idea|__pycache__|roughwork|lab_submission_ANSWERS|assets"
 ```

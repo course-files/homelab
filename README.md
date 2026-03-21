@@ -14,6 +14,7 @@
 
 ```text
 .
+├── Docker-Compose.yaml
 ├── LICENSE
 ├── README.md
 ├── admin_instructions
@@ -29,10 +30,28 @@
 │               └── project_folder
 ├── devops-by-twn
 │   └── 1_os-and-linux-basics
-│       └── exercise-1
-│           └── exercise1.md
+│       ├── exercise-1
+│       │   └── exercise1.md
+│       ├── exercise-2
+│       │   ├── exercise2.md
+│       │   └── exercise2_shell_script.sh
+│       ├── exercise-3
+│       │   ├── exercise3.md
+│       │   └── exercise3_ps_aux.sh
+│       ├── exercise-4
+│       │   ├── exercise4.md
+│       │   └── exercise4_ps_aux_sorted.sh
+│       ├── exercise-5
+│       │   ├── exercise5.md
+│       │   └── exercise5_ps_aux_sorted_number.sh
+│       └── exercise-6
+│           ├── exercise6.md
+│           └── exercise6_installer_for_node_js_npm.sh
 ├── docker-compose-dev.yaml
+├── docker-compose-prod.yaml
 ├── dockerfiles
+│   ├── Dockerfile.flask-gunicorn-app
+│   ├── Dockerfile.nginx
 │   ├── alpine
 │   │   ├── Dockerfile.alpine
 │   │   └── entrypoint.sh
@@ -40,15 +59,17 @@
 │       ├── Dockerfile.ubuntu
 │       └── entrypoint.sh
 ├── env.example
-└── notes
-    ├── docker.md
-    ├── linux.md
-    ├── lpic-101
-    │   ├── 101-system-architecture.md
-    │   └── 102-linux-installation-and-package-management.md
-    └── servers.md
+├── notes
+│   ├── general-docker.md
+│   ├── general-linux.md
+│   ├── lpic-101
+│   │   ├── 101-system-architecture.md
+│   │   └── 102-linux-installation-and-package-management.md
+│   └── static_ip.md
+└── scripts
+    └── adduser_if_not_exists.sh
 
-17 directories, 17 files
+23 directories, 32 files
 ```
 
 ## Setup Instructions
