@@ -22,6 +22,14 @@ ssh -i /C/Users/aomondi/.ssh/id_ed25519_auth aomondi@192.168.100.4
 ssh -i /C/Users/aomondi/.ssh/id_ed25519_auth aomondi@192.168.100.15
 ```
 
+## Secure Copy using SSH (SCP)
+
+```shell
+scp -i /C/Users/aomondi/.ssh/id_ed25519_auth /path/to/local/file aomondi@
+
+scp -i ~/.ssh/id_ed25519_auth test2.sh aomondi@192.168.100.4:/home/aomondi
+```
+
 ## General Usage Commands
 
 ### Get the Hostname
