@@ -48,8 +48,8 @@ Extend the script to check after running the application that the application ha
 
     ![Environment Variables](assets/images/4.png)
 
-- Step 3: Check that the application has successfully started and print out the application's running process
+- Step 3: Check that the application has successfully started and print out the application's running process and
 
-    Extension: PID displayed as 4315.
+    Extension: PID displayed as **3412** and port displayed as **3000**.
 
     ![Check Application Status](assets/images/5.png)
