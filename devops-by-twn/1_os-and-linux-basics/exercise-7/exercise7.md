@@ -1,4 +1,4 @@
-# Exercise 6: Bash Script - Start Node App
+# Exercise 7: Bash Script - Node App Check Status
 
 ## Question
 
@@ -20,6 +20,8 @@ Notes:
 - Make sure to run the application in background so that it doesn't block the terminal session where you execute the shell script
 - If any of the variables is not set, the node app will print error message that env vars is not set and exit
 - It will give you a warning about LOG_DIR variable not set. You can ignore it for now.
+
+Extend the script to check after running the application that the application has successfully started and prints out the application's running process and the port where it's listening.
 
 ## Answers
 
@@ -45,3 +47,9 @@ Notes:
     ```
 
     ![Environment Variables](assets/images/4.png)
+
+- Step 3: Check that the application has successfully started and print out the application's running process
+
+    Extension: PID displayed as 4315.
+
+    ![Check Application Status](assets/images/5.png)
