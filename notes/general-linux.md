@@ -28,6 +28,12 @@ ssh -i /C/Users/aomondi/.ssh/id_ed25519_auth aomondi@192.168.100.15
 scp -i ~/.ssh/id_ed25519_auth test2.sh aomondi@192.168.100.4:/home/aomondi
 ```
 
+or
+
+```shell
+scp -i /C/Users/aomondi/.ssh/id_ed25519_auth exercise7_installer_for_node_js_npm_with_pid.sh aomondi@192.168.100.15:/home/aomondi/Documents
+```
+
 ## General Usage Commands
 
 ### Get the Hostname
