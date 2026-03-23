@@ -183,6 +183,15 @@ sudo ufw allow from any to any port 8083 proto tcp
 sudo ufw status numbered
 ```
 
+### Brutal Shutdown of an Application Running on a Port
+
+E.g., to kill any process using port 3000:
+
+```shell
+sudo su
+fuser -k 3000/tcp
+```
+
 ---
 
 ## Install Docker
