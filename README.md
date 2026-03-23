@@ -13,6 +13,7 @@
 ## Repository Structure
 
 ```text
+$ tree -I ".venv|.idea|__pycache__|roughwork|lab_submission_ANSWERS|assets"
 .
 ├── Docker-Compose.yaml
 ├── LICENSE
@@ -50,9 +51,13 @@
 │       ├── exercise-7
 │       │   ├── exercise7.md
 │       │   └── exercise7_installer_for_node_js_npm_with_pid.sh
-│       └── exercise-8
-│           ├── exercise8.md
-│           └── exercise8_installer_for_node_with_logging.sh
+│       ├── exercise-8
+│       │   ├── exercise8.md
+│       │   └── exercise8_installer_for_node_with_logging.sh
+│       └── exercise-9
+│           ├── exercise9.md
+│           ├── exercise9_install_node.sh
+│           └── exercise9_uninstall_node.sh
 ├── docker-compose-dev.yaml
 ├── docker-compose-prod.yaml
 ├── dockerfiles
@@ -75,7 +80,7 @@
 └── scripts
     └── adduser_if_not_exists.sh
 
-25 directories, 36 files
+26 directories, 39 files
 ```
 
 ## Setup Instructions
@@ -99,6 +104,7 @@
 - [Exercise 6: Bash Script - Start Node App](devops-by-twn/1_os-and-linux-basics/exercise-6/exercise6.md)
 - [Exercise 7: Bash Script - Node App Check Status](devops-by-twn/1_os-and-linux-basics/exercise-7/exercise7.md)
 - [Exercise 8: Bash Script - Node App with Log Directory](devops-by-twn/1_os-and-linux-basics/exercise-8/exercise8.md)
+- [Exercise 9: Bash Script - Node App with Service user](devops-by-twn/1_os-and-linux-basics/exercise-9/exercise9.md)
 
 ## Cleanup Instructions (to be done after submitting the lab)
 
