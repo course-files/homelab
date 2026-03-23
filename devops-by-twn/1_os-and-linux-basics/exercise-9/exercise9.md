@@ -8,27 +8,23 @@ You've been running the application with your user. But we need to adjust that a
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="400" alt="Bash Logo"/>
 
-- Step 1: Execute the edited script with the `log_directory` parameter
+- Screenshots:
 
-    ![Execute the Script](assets/images/1.png)
-
-    Link to bash script: [exercise9_installer_for_node_with_adduser_and_logging.sh](exercise9_installer_for_node_with_adduser_and_logging.sh)
-- Step 2: Confirmation of the `LOG_DIR` environment variable being set to the provided directory path, and that the application is running with the correct environment variable.
-
-    Executed using:
+    Execution command:
 
     ```shell
-    sudo su
-    ./exercise8_installer_for_node_with_logging.sh /var/log/myapp
+    sudo ./exercise9_uninstall_node.sh
     ```
 
-    ![Environment Variables](assets/images/2.png)
+    Link to bash script: [exercise9_install_node.sh](exercise9_install_node.sh)
 
-    ![Environment Variables](assets/images/3.png)
+    Link to uninstall bash script: [exercise9_uninstall_node.sh](exercise9_uninstall_node.sh)
 
-    Uninstall script executed using:
+    Execute the script:
+    ![Screenshot 1](assets/images/1.png)
 
-    ```shell
-    sudo su
-    ./exercise8_installer_for_node_with_logging.sh /var/log/myapp
-    ```
+    Set the log path:
+    ![Screenshot 2](assets/images/2.png)
+
+    Confirmation of running app:
+    ![Screenshot 3](assets/images/3.png)
