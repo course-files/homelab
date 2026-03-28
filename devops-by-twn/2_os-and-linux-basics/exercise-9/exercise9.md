@@ -6,7 +6,7 @@ You've been running the application with your user. But we need to adjust that a
 
 ## Answers
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="400" alt="Bash Logo"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="200" alt="Bash Logo"/>
 
 - Screenshots:
 

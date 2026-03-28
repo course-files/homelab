@@ -96,15 +96,15 @@ $ tree -I ".venv|.idea|__pycache__|roughwork|lab_submission_ANSWERS|assets"
 
 ### 2 - OS & Linux Basics
 
-- [Exercise 1: Linux Mint Virtual Machine](devops-by-twn/1_os-and-linux-basics/exercise-1/exercise1.md)
-- [Exercise 2: Bash Script - Install Java](devops-by-twn/1_os-and-linux-basics/exercise-2/exercise2.md)
-- [Exercise 3: Bash Script - User Processes](devops-by-twn/1_os-and-linux-basics/exercise-3/exercise3.md)
-- [Exercise 4: Bash Script - User Processes Sorted](devops-by-twn/1_os-and-linux-basics/exercise-4/exercise4.md)
-- [Exercise 5: Bash Script - Specific Number of User Processes Sorted](devops-by-twn/1_os-and-linux-basics/exercise-5/exercise5.md)
-- [Exercise 6: Bash Script - Start Node App](devops-by-twn/1_os-and-linux-basics/exercise-6/exercise6.md)
-- [Exercise 7: Bash Script - Node App Check Status](devops-by-twn/1_os-and-linux-basics/exercise-7/exercise7.md)
-- [Exercise 8: Bash Script - Node App with Log Directory](devops-by-twn/1_os-and-linux-basics/exercise-8/exercise8.md)
-- [Exercise 9: Bash Script - Node App with Service user](devops-by-twn/1_os-and-linux-basics/exercise-9/exercise9.md)
+- [Exercise 1: Linux Mint Virtual Machine](devops-by-twn/2_os-and-linux-basics/exercise-1/exercise1.md)
+- [Exercise 2: Bash Script - Install Java](devops-by-twn/2_os-and-linux-basics/exercise-2/exercise2.md)
+- [Exercise 3: Bash Script - User Processes](devops-by-twn/2_os-and-linux-basics/exercise-3/exercise3.md)
+- [Exercise 4: Bash Script - User Processes Sorted](devops-by-twn/2_os-and-linux-basics/exercise-4/exercise4.md)
+- [Exercise 5: Bash Script - Specific Number of User Processes Sorted](devops-by-twn/2_os-and-linux-basics/exercise-5/exercise5.md)
+- [Exercise 6: Bash Script - Start Node App](devops-by-twn/2_os-and-linux-basics/exercise-6/exercise6.md)
+- [Exercise 7: Bash Script - Node App Check Status](devops-by-twn/2_os-and-linux-basics/exercise-7/exercise7.md)
+- [Exercise 8: Bash Script - Node App with Log Directory](devops-by-twn/2_os-and-linux-basics/exercise-8/exercise8.md)
+- [Exercise 9: Bash Script - Node App with Service user](devops-by-twn/2_os-and-linux-basics/exercise-9/exercise9.md)
 
 ## Cleanup Instructions (to be done after submitting the lab)
 

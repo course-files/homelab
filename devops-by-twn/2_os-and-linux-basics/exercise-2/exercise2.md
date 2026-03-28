@@ -22,7 +22,7 @@ You can see more examples here: [https://www.tutorialspoint.com/awk/awk_basic_ex
 
 ## Answers
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="400" alt="Bash Logo"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="200" alt="Bash Logo"/>
 
 - Step 1: Install Vim
 

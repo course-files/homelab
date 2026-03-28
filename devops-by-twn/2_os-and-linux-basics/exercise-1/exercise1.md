@@ -6,7 +6,7 @@ Create a Linux Mint Virtual Machine on your computer. Check the distribution, wh
 
 ## Answers
 
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linuxmint/linuxmint-original.svg" width="400" align="center" alt="Mint Logo"/>](https://linuxmint.com/edition.php?id=326)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linuxmint/linuxmint-original.svg" width="200" align="center" alt="Mint Logo"/>](https://linuxmint.com/edition.php?id=326)
 
 - Step 1: Downloaded Linux Mint 22.3 Cinnamon Edition from: [https://linuxmint.com/edition.php?id=326](https://linuxmint.com/edition.php?id=326)
 

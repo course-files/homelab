@@ -13,7 +13,7 @@ Note:
 
 ## Answers
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="400" alt="Bash Logo"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="200" alt="Bash Logo"/>
 
 - Step 1: Execute the script with the `log_directory` parameter
 

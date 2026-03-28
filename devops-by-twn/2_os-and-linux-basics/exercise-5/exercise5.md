@@ -6,7 +6,7 @@ Extend the previous script to ask additionally for user input about how many pro
 
 ## Answers
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="400" alt="Bash Logo"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="200" alt="Bash Logo"/>
 
 - Step 1: Create the Bash Script using Vim and make it Executable
 
