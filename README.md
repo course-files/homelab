@@ -85,7 +85,7 @@ $ tree -I ".venv|.idea|__pycache__|roughwork|lab_submission_ANSWERS|assets"
 
 ## Setup Instructions
 
-- [Setup Instructions](admin_instructions/instructions_for_project_setup.md)
+- [Setup Instructions](0_admin_instructions/0_instructions_for_project_setup.md)
 
 ## Notes
 
@@ -106,6 +106,6 @@ $ tree -I ".venv|.idea|__pycache__|roughwork|lab_submission_ANSWERS|assets"
 - [Exercise 8: Bash Script - Node App with Log Directory](devops-by-twn/2_os-and-linux-basics/exercise-8/exercise8.md)
 - [Exercise 9: Bash Script - Node App with Service user](devops-by-twn/2_os-and-linux-basics/exercise-9/exercise9.md)
 
-## Cleanup Instructions (to be done after submitting the lab)
+## Teardown Instructions
 
-- [Cleanup Instructions](admin_instructions/instructions_for_postlab_cleanup.md)
+- [Teardown Instructions](0_admin_instructions/2_instructions_for_project_teardown.md)
